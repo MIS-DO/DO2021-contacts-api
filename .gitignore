@@ -1,0 +1,4 @@
+node_modules
+.oas-generator
+data
+logs
